@@ -9,8 +9,8 @@
 - [SecretLab Titan House Stark Chair](https://secretlab.co/collections/titan-series#titan_2020-stark) 
 
 ## Gaming Computer
-- [Razer Lancehead TE Chroma Gaming Mouse Mercury White](https://amzn.to/3alfZnz)
-- [Razer BlackWidow X Chroma Mechanical Gaming Keyboard Mercury White](https://amzn.to/2LYAZHG)
+- [Razer Lancehead TE Chroma Gaming Mouse Mercury White](https://amzn.to/3alfZnz) (Affiliate Link)
+- [Razer BlackWidow X Chroma Mechanical Gaming Keyboard Mercury White](https://amzn.to/2LYAZHG) (Affiliate Link)
 
 ## Productivity
 - [Notion](https://www.notion.so/product)
