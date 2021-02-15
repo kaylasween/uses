@@ -1,2 +1,5 @@
-# uses
-Just the stuff I use
+# Things I Use
+
+## Productivity
+- Notion
+
