@@ -6,6 +6,7 @@
   
 ## Desk
 - [Ikea Bekant Sit/Stand Desk](https://www.ikea.com/us/en/p/bekant-desk-sit-stand-white-s49022538/)
+- [SecretLab Titan House Stark Chair](https://secretlab.co/collections/titan-series#titan_2020-stark) 
 
 ## Productivity
 - [Notion](https://www.notion.so/product)
