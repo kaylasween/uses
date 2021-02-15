@@ -12,6 +12,6 @@
 
 ## Recording
 ### Microphone Setup
-- [Audio Technica AT2020 Silver Edition](https://amzn.to/3djsHoS) (Affiliate Link)
-  - Cheaper and more readily available version: [Audio Technica AT2020 (black)](https://amzn.to/2Np8Hq2) (Affiliate Link)
-- [Scarlett Solo](https://amzn.to/3qozph8) (Affiliate Link)
+- [Audio Technica AT2020 Silver Edition XLR Microphone](https://amzn.to/3djsHoS) (Affiliate Link)
+  - Cheaper and more readily available version: [Audio Technica AT2020 XLR Microphone (black)](https://amzn.to/2Np8Hq2) (Affiliate Link)
+- [Scarlett Solo USB Audio Interface](https://amzn.to/3qozph8) (Affiliate Link)
