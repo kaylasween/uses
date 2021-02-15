@@ -8,6 +8,10 @@
 - [Ikea Bekant Sit/Stand Desk](https://www.ikea.com/us/en/p/bekant-desk-sit-stand-white-s49022538/)
 - [SecretLab Titan House Stark Chair](https://secretlab.co/collections/titan-series#titan_2020-stark) 
 
+## Gaming Computer
+- [Razer Lancehead TE Chroma Gaming Mouse Mercury White](https://amzn.to/3alfZnz)
+- [Razer BlackWidow X Chroma Mechanical Gaming Keyboard Mercury White](https://amzn.to/2LYAZHG)
+
 ## Productivity
 - [Notion](https://www.notion.so/product)
 
