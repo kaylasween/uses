@@ -5,10 +5,10 @@
   - macOS Big Sur
   
 ## Desk
-- 
+- [Ikea Bekant Sit/Stand Desk](https://www.ikea.com/us/en/p/bekant-desk-sit-stand-white-s49022538/)
 
 ## Productivity
-- Notion
+- [Notion](https://www.notion.so/product)
 
 ## Recording
 ### Microphone Setup
